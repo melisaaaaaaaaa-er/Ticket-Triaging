@@ -11,7 +11,7 @@ NOTE: agents cannot access tickets outside of their respective department, even 
 #
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/osticket-images/main/77.png"/>
 
-Here are the tickets previously generated. This part of the lab involves triaging – evaluating the ticket severity and changing it accordingly, as well as assigning the appropriate SLA and department/team/agent that will handle the ticket.
+Here are the tickets previously generated. This part of the lab involves triaging – evaluating and categorizing ticket severity and changing it accordingly, as well as assigning the appropriate SLA and department/team/agent that will handle the ticket.
 
 #
 <img src="https://raw.githubusercontent.com/melisaaaaaaaaa-er/osticket-images/main/78.png"/>
